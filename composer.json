@@ -1,0 +1,14 @@
+{
+  "authors": [
+    {
+      "name": "Kilian Kopf",
+      "email": "kiliankopf1@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "": "includes/Classes/"
+    }
+  }
+}
